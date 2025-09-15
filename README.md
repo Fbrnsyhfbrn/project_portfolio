@@ -4,7 +4,7 @@
 This portfolio displays my trip and work in the field:
 
 - **Software Development**  
-- **Animasi**  
+- **Animation**  
 - **Rigging**  
 
 ---
@@ -14,7 +14,22 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 
-First, run the development server:
+First, install Next JS:
+
+
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+
+Run the development server:
+
 
 ```bash
 npm run dev
